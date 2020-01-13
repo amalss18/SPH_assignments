@@ -1,0 +1,1 @@
+{"fname": "dam_break_pysph", "output_dir": "/home/amalss18/SPH_assignments/dam_break_pysph/dam_break_pysph_output", "args": ["--openmp"], "completed": true, "cpu_time": 145.89167833328247}
